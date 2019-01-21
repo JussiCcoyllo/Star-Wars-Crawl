@@ -91,7 +91,7 @@ body, html{
     position: relative;
     top: 9999px;
     transform-origin: 50% 100%;
-    animation: crawl 100s linear 16s;
+    animation: crawl 100s linear 10s;
     transform: perspective(200px) rotateX(25deg);
     text-align: center;
 
